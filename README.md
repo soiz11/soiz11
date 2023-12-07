@@ -1,4 +1,4 @@
-<p align="center"><picture align="center"><img align="center" src = "https://giphy.com/gifs/viber-funny-lk-xUA7aLc8MhyBydcNs4"  height= 300px ></picture></p>
+<p align="center"><picture align="center"><img align="center" src = "https://media.giphy.com/media/xUA7aLc8MhyBydcNs4/giphy.gif"  height= 300px ></picture></p>
 <h1 align="center">Hi 👋, I'm Sohan Prabhath</h1>
 <h3 align="center">Passionate IT Student | Keep In Touch With The Dynamic World Of Technology</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=soiz11&label=Profile%20views&color=0e75b6&style=flat" alt="soiz11" /> </p>
