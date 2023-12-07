@@ -1,4 +1,4 @@
-<p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
+<p align="center"><picture align="center"><img align="center" src = "https://github.com/soiz11/soiz11/blob/main/icons/about.gif" width = 50px></picture></p>
 <h1 align="center">Hi 👋, I'm Sohan Prabhath</h1>
 <h3 align="center">Passionate IT Student | Keep In Touch With The Dynamic World Of Technology</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=soiz11&label=Profile%20views&color=0e75b6&style=flat" alt="soiz11" /> </p>
